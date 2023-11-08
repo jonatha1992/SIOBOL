@@ -12,8 +12,7 @@ namespace DAL
         static private NpgsqlConnection cn;
         static private NpgsqlCommand cmd;
         static private NpgsqlTransaction npgsqlTransaction;
-        //static string ConexionsString = "Host=localhost;Port=5432;Username=postgres;Password=1q2w3e4r;Database=BDSIGEHA";
-        static string ConexionsString = "Host=containers-us-west-156.railway.app;Port=6621;Username=postgres;Password=vik31Dmhwgh9lTMQVont;Database=railway";
+        static string ConexionsString = "";
 
         public bool TestConection()
         {

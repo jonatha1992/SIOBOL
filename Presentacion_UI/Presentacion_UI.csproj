@@ -7,7 +7,7 @@
     <ProjectGuid>{66CD3FC1-1471-44DA-BF10-7E92F0B469A1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Presentacion_UI</RootNamespace>
-    <AssemblyName>SIGEHA</AssemblyName>
+    <AssemblyName>SIOBOL</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
