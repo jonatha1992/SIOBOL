@@ -1,0 +1,1 @@
+{"version":"0.2.0","configurations":[{"name":"SIOBOL: Windows Forms (F5)","type":"clr","request":"launch","program":"${workspaceFolder}/Presentacion_UI/bin/Debug/SIOBOL.exe","cwd":"${workspaceFolder}/Presentacion_UI/bin/Debug","preLaunchTask":"SIOBOL: compilar Debug","stopAtEntry":false}]}
